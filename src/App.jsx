@@ -5,7 +5,9 @@ function App() {
     <>
       <h1>ARTECH DEV LTD</h1>
 
-      <p className="read-the-docs">Development in progress, Artech is coming</p>
+      <p className="read-the-docs">
+        Development in progress, Artech is coming! Please wait.
+      </p>
     </>
   );
 }
